@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.084,F:\My Works\Websites\#DarckRepacks\RepackingSecrets\P_Jiva_Newstone\DarckSideGUICompressor\GUI_v0.7.6\DarckSideCompressor.dproj=F:\My Works\Websites\#DarckRepacks\RepackingSecrets\P_Jiva_Newstone\DarckSideGUICompressor\GUI_v0.7.6\Packer.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.679,F:\My Works\Websites\#DarckRepacks\RepackingSecrets\P_Jiva_Newstone\DarckSideGUICompressor\DSC_v089\Main.fmx=F:\My Works\Websites\#DarckRepacks\RepackingSecrets\P_Jiva_Newstone\DarckSideGUICompressor\DSC_v089\Unit1.fmx</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.484,=C:\Users\Jiva newstone\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.242,=C:\Users\Jiva newstone\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.178,C:\Users\Jiva newstone\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Jiva newstone\Desktop\CLI_Compressor_r6\GUI\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.679,F:\My Works\Websites\#DarckRepacks\RepackingSecrets\P_Jiva_Newstone\DarckSideGUICompressor\DSC_v089\Main.pas=F:\My Works\Websites\#DarckRepacks\RepackingSecrets\P_Jiva_Newstone\DarckSideGUICompressor\DSC_v089\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.746,C:\Users\Jiva newstone\Desktop\DSC_v089\Unit1.pas=C:\Users\Jiva newstone\Desktop\DSC_v089\Funct.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.701,=C:\Users\Jiva newstone\Desktop\DSC_v089\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.178,C:\Users\Jiva newstone\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Jiva newstone\Desktop\CLI_Compressor_r6\GUI\Unit1.fmx</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.415,C:\Users\Jiva newstone\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jiva newstone\Desktop\CLI_Compressor_r6\GUI\Packer.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main.pas"/>
+    <File Path="Main.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
