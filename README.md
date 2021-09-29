@@ -9,4 +9,4 @@
 GUI Based Compressor/Repack Creator by Darck Team.
 
 ## Contributors
-In addition to contributors reported by git, people who contributed to this repository are: @Sc00t3r, @-ZH!¥ÃM™RRC-, @MrGamerAI & @BedBug.
+In addition to contributors reported by git, people who contributed to this repository are: **Sc00t3r**, **-ZH!¥ÃM™RRC-**, **MrGamerAI** & **BedBug**.
