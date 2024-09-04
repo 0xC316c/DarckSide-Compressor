@@ -6,7 +6,7 @@
 ![Commits since release](https://img.shields.io/github/commits-since/0xC316c/DarckSide-Compressor/latest/master)
 
 ## About
-GUI Based Compressor/Repack Creator by Darck Team.
+GUI Based Compressor/Repack Creator for Darck Team.
 
 ## Contributors
 In addition to contributors reported by git, people who contributed to this repository are: **Sc00t3r**, **-ZH!¥ÃM™RRC-**, **MrGamerAI** & **BedBug**.
